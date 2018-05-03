@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525361855 source:c:\users\utilisateur\documents\prog\project2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+
+1524940344 c:\users\utilisateur\documents\prog\project2\functions.h
+
+1524940846 source:c:\users\utilisateur\documents\prog\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Functions.h"
+

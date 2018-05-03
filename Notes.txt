@@ -1,0 +1,10 @@
+Il faut suivre le schéma du Lab 4. D'abord on crée toutes les structure
+puis pon cherche comment tout remplir, puis comment tout mettre en relation.
+Faudra créer une liste qui classe les avions en fonction de leur priorité,
+mais ce ne sera possible que quand toutes les listes seront utilisables.
+
+L'ordre de priorité à l'atterrissage est défini par :
+    - L'heure prévue.
+    - La quantité de fuel.
+    - Si la compagnie est sur blacklist ou pas.
+    - Si l'avion est dans une situation d'urgence.
